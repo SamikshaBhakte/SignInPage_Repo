@@ -1,0 +1,19 @@
+.loginUser {
+  margin: 50px auto;
+  background-color: white;
+  width: 30%;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+}
+
+.loginUserForm .loginInputGroup {
+  width: 100%;
+  /*background-color: red;*/
+  display: flex;
+  flex-direction: column;
+}
+
+.loginUserForm .loginInputGroup label {
+  margin-top: 10px;
+}
